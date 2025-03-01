@@ -27,6 +27,11 @@ import { StyleSheet } from 'react-native';
         resizeMode: 'cover',
         position: 'absolute',
     },
+    buttonContainer: {
+        position: 'absolute',
+        bottom: 50,
+        width: '100%',
+    },
 });
 
 export default styles;
